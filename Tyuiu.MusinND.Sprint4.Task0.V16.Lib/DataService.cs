@@ -21,5 +21,5 @@ namespace Tyuiu.MusinND.Sprint4.Task0.V16.Lib
 
             return hasEven ? product : 0; // Если четных элементов не было, возвращаем 0
         }
-    }
+    } 
 }
